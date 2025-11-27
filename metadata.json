@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Encuestas",
+  "description": "Plataforma de gestión de encuestas en tiempo real con panel administrativo, control de duplicidad de votos y exportación de reportes detallados a CSV (Auditoría).",
+  "requestFramePermissions": []
+}
